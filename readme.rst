@@ -1,3 +1,4 @@
+username: admin@gmail.com password:admin
 ###################
 What is CodeIgniter
 ###################
